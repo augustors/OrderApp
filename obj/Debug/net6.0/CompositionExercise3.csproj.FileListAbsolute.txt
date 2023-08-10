@@ -1,0 +1,15 @@
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\bin\Debug\net6.0\CompositionExercise3.exe
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\bin\Debug\net6.0\CompositionExercise3.deps.json
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\bin\Debug\net6.0\CompositionExercise3.runtimeconfig.json
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\bin\Debug\net6.0\CompositionExercise3.dll
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\bin\Debug\net6.0\CompositionExercise3.pdb
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.csproj.AssemblyReference.cache
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.AssemblyInfoInputs.cache
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.AssemblyInfo.cs
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.csproj.CoreCompileInputs.cache
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.dll
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\refint\CompositionExercise3.dll
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.pdb
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\CompositionExercise3.genruntimeconfig.cache
+C:\Users\AugustoRibeiro\source\repos\CompositionExercise3\obj\Debug\net6.0\ref\CompositionExercise3.dll
